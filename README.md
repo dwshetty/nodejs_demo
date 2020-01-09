@@ -2,8 +2,8 @@ In the project directory, you can run:
 
 # `node app.js`
 
-Runs the app. You will also see any errors in the console. <br />
+Runs the app. You will see logs in the console. <br />
 
 # `node server.js`
 
-Runs the app. Open http://localhost:5000 to view it in the browser. <br />
+Runs the app. Open http://localhost:5000 to view the output in the browser. <br />
